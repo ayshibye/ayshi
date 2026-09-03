@@ -74,12 +74,12 @@ const PROJECTS = [
 
 const GALLERY_PAINTINGS = [
   {
-    src: "images/paintings/abstract-shore.jpg",
+    src: "abstract-shore.jpg",
     title: "Where the Water Turns Quiet",
     caption: "A soft, atmospheric shoreline built from mist, muted water, and fragments of warmth — a landscape that feels more remembered than seen."
   },
   {
-    src: "images/paintings/storm-face.jpg",
+    src: "storm-face.jpg",
     title: "Between the Storm and the Sea",
     caption: "A face emerging beneath restless waves: quiet, intense, and suspended between turbulence above and the calm that remains underneath."
   }
